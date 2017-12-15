@@ -1,0 +1,18 @@
+
+.tinyeditors, #tinyeditor {border:none; margin:0; padding:0; font:14px 'Courier New',Verdana}
+.tinyeditors, .tinyeditor {border:1px solid #bbb; padding:0 1px 1px; font:12px Verdana,Arial}
+.tinyeditors iframe, .tinyeditor iframe {border:none; overflow:hidden}
+.tinyeditors-header, .tinyeditor-header {height:31px; border-bottom:1px solid #bbb; background:url(images/header-bg.gif) repeat-x; padding-top:1px}
+.tinyeditors-header select, .tinyeditor-header select {float:left; margin-top:5px}
+.tinyeditors-font, .tinyeditor-font {margin-left:12px}
+.tinyeditors-size, .tinyeditor-size {margin:0 3px}
+.tinyeditors-style, .tinyeditor-style {margin-right:12px}
+.tinyeditors-divider, .tinyeditor-divider {float:left; width:1px; height:30px; background:#ccc}
+.tinyeditors-control, .tinyeditor-control {float:left; width:34px; height:30px; cursor:pointer; background-image:url(images/icons.png)}
+.tinyeditors-control:hover, .tinyeditor-control:hover {background-color:#fff; background-position:30px 0}
+.tinyeditors-footer, .tinyeditor-footer {height:32px; border-top:1px solid #bbb; background:#f5f5f5}
+.toggles, .toggle {float:left; background:url(images/icons.png) -34px 2px no-repeat; padding:9px 13px 0 31px; height:23px; border-right:1px solid #ccc; cursor:pointer; color:#666}
+.toggles:hover, .toggle:hover {background-color:#fff}
+.resize {float:right; height:32px; width:32px; background:url(images/resize.gif) 15px 15px no-repeat; cursor:s-resize}
+#editors, #editor {cursor:text; margin:10px}
+.tinyeditors select, .tinyeditor select{font-size:12px!important;width:auto!important;height:20px!important}
